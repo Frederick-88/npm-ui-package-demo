@@ -1,6 +1,6 @@
 {
   "name": "npm-ui-package-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue Reusable Component NPM Package Demo for NuxtJS & VueJS.",
   "keywords": [
     "vue",
