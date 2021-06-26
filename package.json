@@ -1,31 +1,13 @@
 {
-  "name": "npm-ui-package-demo",
+  "name": "npm-ui-package-demo-vue-tester",
   "version": "1.0.0",
-  "description": "Vue Reusable Component NPM Package Demo for NuxtJS & VueJS.",
-  "keywords": [
-    "vue",
-    "nuxt",
-    "reusable components",
-    "vue components",
-    "components library",
-    "ui components",
-    "ui library",
-    "bootstrap"
-  ],
-  "homepage": "https://global-ui-docs.netlify.app/",
-  "main": "src",
-  "contributors": [
-    {
-      "name": "Chen Frederick",
-      "url": "https://www.chenfrederick.com"
-    }
-  ],
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "npm-ui-package-demo": "^1.0.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },

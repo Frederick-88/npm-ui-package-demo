@@ -1,9 +1,9 @@
 import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
-import GlobalVue from "./index";
+import NpmUIPackage from "npm-ui-package-demo";
 
-Vue.use(GlobalVue); // use all components defined in GlobalVue for all vue components.
+Vue.use(NpmUIPackage);
 
 Vue.config.productionTip = false;
 

@@ -13,7 +13,7 @@ module.exports = {
          *
          */
         data: `
-            @import '@/assets/styles/variables.scss';
+            @import 'node_modules/npm-ui-package-demo/src/assets/styles/variables.scss';
           `,
       },
     },

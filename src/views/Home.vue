@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
-    <h2>Welcome</h2>
+    <h2>Welcome to npm-ui-package-demo vue app tester</h2>
     <hr />
     <h3>Sample Button</h3>
     <div class="home-button__wrapper">
