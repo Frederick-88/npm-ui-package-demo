@@ -23,4 +23,3 @@ const GlobalVue = {
 };
 
 export default GlobalVue;
-export * from "./components";
