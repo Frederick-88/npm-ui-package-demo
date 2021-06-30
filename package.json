@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "npm-ui-package-demo": "^1.0.2",
+    "npm-ui-package-demo": "^1.0.3",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
